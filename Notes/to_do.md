@@ -1,0 +1,3 @@
+- Learn best practices for debugging - assessing memory use and stuff like that
+- Try out different game dev platforms
+- Get through python crash course
