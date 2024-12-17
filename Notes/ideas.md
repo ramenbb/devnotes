@@ -1,4 +1,4 @@
-#Ideas for initial coding projects
+# Ideas for initial coding projects
 
 - Question bot - “what don’t you know after reading this article?”
 - Stardew valley - but only combat and non-wholesome - good music
