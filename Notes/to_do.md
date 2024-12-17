@@ -1,3 +1,5 @@
 - Learn best practices for debugging - assessing memory use and stuff like that
 - Try out different game dev platforms
 - Get through python crash course
+- Learn best practices for versioning in Github
+- Learn how to contribute to open source projects as a beginner
