@@ -6,3 +6,4 @@
 - Apps related to packaging responsibility?
 - ESG ranks aggregator
 - Shareholder Proposal data
+- App that summarizes all tips from creative_explained and organizes learnings data
